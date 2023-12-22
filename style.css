@@ -31,12 +31,12 @@ body {
     height: 120px;
     margin: auto;
     border-radius: 20px;
-    
     align-self: center;
     align-content: center;
 }
 
 h1, h2{
+    font-size: 48px;
     color: white;
 }
 
